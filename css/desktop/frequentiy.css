@@ -1,0 +1,173 @@
+.frequently {
+  width: 85%;
+  height: auto;
+  margin: 128px;
+  display: flex;
+  flex-flow: row wrap;
+}
+.frequently .frequently1 {
+  width: 464px;
+  height: 144px;
+  
+  
+}
+.frequently .frequently1 h3 {
+  width: 100%;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  margin-bottom: 16px;
+}
+.frequently .frequently1 p {
+  color: var(--Royal-Blue);
+  text-align: start;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  opacity: 0.87;
+}
+.frequently .frequently2 {
+  width: 800px;
+ 
+}
+.frequently .frequently2 .first{
+  width: 815px;
+  height: 145px;
+  display: flex;
+  flex-flow: row wrap;
+}
+.frequently .frequently2 .first .number {
+  color: var(--Royal-Blue);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  width: 24px;
+  height: 36px;
+  
+  
+}
+.frequently .frequently2 .first .center  {
+  width: 772px;
+  height: 133px;
+  display: flex;
+  flex-flow: column wrap;
+  padding-left: 30px;
+  box-sizing: border-box;
+ 
+ 
+}
+.frequently .frequently2 .first .center h6 {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  width: 350px;
+  height: 36px;
+  margin-bottom: 16px;
+ 
+  
+}
+.frequently .frequently2 .first .center p {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  width: 60%;
+  height: 62px;
+  margin-left: 5px;
+}
+.frequently .frequently2 .first svg {
+  width: 16px;
+  height: 16px;
+  transform: rotate(45deg);
+  flex-shrink: 0;
+  fill: var(--Dark-blue);
+  opacity: 0.7;
+ margin-top: 10px;
+}
+.frequently .frequently2 .first img {
+  width: 843px;
+  height: 2px;
+  background: #ECECF1;
+  margin-top: 20px;
+}
+.frequently .frequently2 .second{
+  width: 815px;
+  height: 100px;
+  display: flex;
+  flex-flow: row wrap;
+ align-items: center;
+}
+
+.frequently .frequently2 .second h6 {
+  color: var(--Royal-Blue);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  width: 24px;
+  height: 36px;
+  margin-right: 30px;
+  
+  
+  
+}
+.frequently .frequently2 .second .center {
+  width: 740px;
+  height: 100px;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+ 
+}
+.frequently .frequently2 .second .center h6 {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  width: 350px;
+  height: 36px;
+  
+}
+.frequently .frequently2 .second .center p {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  width: 60%;
+  height: 62px;
+  margin-left: 38px;
+}
+.frequently .frequently2 .second svg {
+  width: 16px;
+  height: 16px;
+  transform: rotate(45deg);
+  flex-shrink: 0;
+  fill: var(--Dark-blue);
+  opacity: 0.7;
+  margin-top: 10px;
+}
+.frequently .frequently2 .second img {
+  width: 843px;
+  height: 2px;
+  background: #ECECF1;;
+}
+

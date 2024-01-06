@@ -1,0 +1,119 @@
+.swiper {
+    width: 100%;
+    background-color: var(--Grey);
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .swiper .all .right {
+    width: 327px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  .swiper .all .right h3 {
+    width: 327px;
+    height: 112px;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+  }
+  .swiper .all .right p {
+    width: 327px;
+    height: 56px;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    opacity: 0.7;
+  }
+  .swiper .all .left {
+    width: 90%;
+    display: flex;
+    flex-flow:row wrap ;
+    text-align: start;
+  }
+  .swiper .all .left h5 {
+    width: 843px;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 20px;
+  }
+  .swiper .all .left .img {
+    width: 58.248px;
+    height: 87.339px;
+    background: var(--Grey);
+    display: flex;
+    margin-left: 32px;
+  }
+  .swiper .all .left .img img {
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-bottom: 28px;
+    height: 50px;
+    margin-right: 9.6px;
+   
+  }
+  .swiper .all .left .text {
+    height: 60px;
+    width: 183px;
+    
+  }
+  .swiper .all .left .text .top {
+    width: 183px;
+    height: 32px;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+  }
+  .swiper .all .left .text .bottom {
+    width: 183px;
+    height: 28px;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+   
+  }
+  .swiper-button-next{
+      width: 207px;
+      height: 108px;
+      margin-right: 10px;
+      --swiper-navigation-size:20px;
+     
+  
+  }
+  .swiper-button-prev{
+      width: 107px;
+      height: 48px;
+      margin-left: 420px;
+      font-size:200px;
+      --swiper-navigation-size:20px;
+  
+  }
+  

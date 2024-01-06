@@ -1,0 +1,54 @@
+.feature-logos {
+    width: 100%;
+    margin-top: 24px;
+    color: rgba(40, 41, 56, 1);
+    display: flex;
+    flex-flow: row wrap;
+    row-gap: 60px;
+    padding-left: 60px;
+    box-sizing: border-box;
+  }
+  .feature-logos .Finsweet-users {
+   width: 50%;
+  }
+  .feature-logos .Finsweet-users h3 {
+    width: 50%;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    color: (40, 41, 56, 1);
+  }
+ .feature-logos .Finsweet-users p {
+    width: 100%;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    opacity: 0.7;
+  }
+ .feature-logos .logo1 {
+    width: 50%;
+    margin-top: 10px;
+   
+  }
+.feature-logos .logo2 {
+    width: 50%;
+   
+  }
+ .feature-logos .logo3 {
+    width:50% ;
+   
+    
+  }
+ .feature-logos .logo4 {
+    width: 50%;
+   
+  }
+   .feature-logos .logo5 {
+    width: 50%;
+   
+  }
+  

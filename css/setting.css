@@ -1,0 +1,26 @@
+@font-face {
+    font-family: poppins;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: Manrope;
+    src: url(../fonts/Manrope-VariableFont_wght.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 100%;
+}
+:root{
+    --white:#fff;
+    --tint-blue:#1c1e53;
+    --Grey:#F4F6FC;
+    --Royal-Blue: #2405f2;
+    --Dark-blue: #282938;
+    --yellow :#FCD980;
+   --swiper-navigation-size:10px;
+   --Accent :#EEF4FA;
+   --b: #1D2130;
+}

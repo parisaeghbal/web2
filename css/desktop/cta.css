@@ -1,0 +1,48 @@
+.cta {
+  width: 730px;
+  height: 308px;
+  flex-shrink: 0;
+  margin: 128px auto;
+}
+.cta h2 {
+  width: 730px;
+  color: var(--Dark-blue);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+}
+.cta p {
+  width: 562px;
+  color: var(--Dark-blue);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  opacity: 0.7;
+  margin: 20px auto;
+}
+.cta button {
+  display: flex;
+  width: 230px;
+  height: 64px;
+  padding: 16px 67px 16px 66px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 41px;
+  background: #fcd980;
+  margin: 40px auto;
+  border: none;
+  color: #1b1c2b;
+  font-family: Manrope;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px;
+  margin-bottom: 128px;
+}

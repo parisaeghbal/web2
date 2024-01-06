@@ -1,0 +1,100 @@
+.work-our-work {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.work-our-work .title {
+  display: flex;
+  flex-flow: row wrap;
+  column-gap: 15px;
+  padding-top: 96px;
+  margin-bottom: 48px;
+  padding-left: 10px;
+  box-sizing: border-box;
+}
+.work-our-work .title p {
+  width: auto;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  opacity: 0.7;
+  color: var(--Dark-blue);
+}
+.work-our-work .title p.blue {
+  color: var(--Royal-Blue);
+}
+.work-our-work .work-cards {
+  width: 100%;
+}
+.work-our-work .work-cards .cards {
+  width: 100%;
+  margin-bottom: 67px;
+}
+.work-our-work .work-cards .cards .card {
+  width: 100%;
+  display: flex;
+  padding: 30px 39px 33px 39px;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(131deg, #f4ede1 16.74%, #98b1c6 103.17%);
+}
+.work-our-work .work-cards .cards .card img {
+  width: 100%;
+}
+.work-our-work .work-cards .cards .pinkblue {
+  background: linear-gradient(131deg, #ffd3af 16.74%, #4f56ff 103.17%);
+}
+.work-our-work .work-cards .cards .pinkpink {
+  background: linear-gradient(131deg, #eebca7 16.74%, #c8c8c8 103.17%);
+}
+.work-our-work .work-cards .cards .blueblue {
+  background: linear-gradient(131deg, #c2e7f2 16.74%, #98a4ff 103.17%);
+}
+.work-our-work .work-cards .cards .lightgreen {
+  background: linear-gradient(131deg, #c5bcff 16.74%, #9bf6d5 103.17%);
+}
+.work-our-work .work-cards .cards .purple {
+  background: linear-gradient(131deg, #d2d6fd 16.74%, #d6acea 103.17%);
+}
+.work-our-work .work-cards .cards h3 {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  margin-top: 24px;
+}
+.work-our-work .work-cards .cards p {
+  color: var(--Dark-blue);
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  width: 100%;
+  opacity: 0.7;
+  margin-top: 12px;
+}
+.work-our-work .work-cards .cards a {
+  display: flex;
+  flex-flow: row wrap;
+  column-gap: 10px;
+  margin-top: 36px;
+  text-decoration: none;
+}
+.work-our-work .work-cards .cards a .tag {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+}
+.work-our-work .work-cards .cards a svg {
+  margin-top: 5px;
+}

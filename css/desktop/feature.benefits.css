@@ -1,0 +1,117 @@
+.feature-benefits {
+  height: 492px;
+  width: 85%;
+  margin: 124px 128px 152px 128px;
+  margin-bottom: 0;
+}
+
+.feature-benefits h2 {
+  color: var(--Dark-blue);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+  width: 630px;
+  height: 128px;
+  margin-left: 313px;
+  margin-bottom: 48px;
+}
+.feature-benefits .rectangel-1318 {
+  height: 316px;
+  display: flex;
+  flex-flow: row wrap;
+  column-gap: 38px;
+}
+.feature-benefits .rectangel-1318 .rectangel-1318-1 {
+  height: 316px;
+  width: 405px;
+  background-color: var(--Grey);
+}
+.feature-benefits .rectangel-1318 .rectangel-1318-1 svg {
+  width: 32.001px;
+  height: 32px;
+  flex-shrink: 0;
+  margin: 50px 0 26px 48px;
+}
+.feature-benefits .rectangel-1318 .rectangel-1318-1 h6 {
+  width: 314.748px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  margin-bottom: 12px;
+  margin-left: 47.9px;
+}
+.feature-benefits .rectangel-1318 .rectangel-1318-1 p {
+  width: 324.079px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+  margin-left: 48.3px;
+}
+.feature-benefits .logos {
+  width: 1290px;
+  height: 84px;
+  margin-top: 48px;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  color: rgba(40, 41, 56, 1);
+}
+.feature-benefits .logos .Finsweet-users {
+  margin-right: 89px;
+}
+.feature-benefits .logos .Finsweet-users h3 {
+  width: 176px;
+  height: 56px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  color: (40, 41, 56, 1);
+}
+.feature-benefits .logos .Finsweet-users p {
+  width: 124px;
+  height: 28px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+}
+.feature-benefits .logos .logo1 {
+  width: 161.815px;
+  height: 32px;
+  margin-right: 59.9px;
+}
+.feature-benefits .logos .logo2 {
+  width: 136.149px;
+  height: 32px;
+  margin-right: 88.86px;
+}
+.feature-benefits .logos .logo3 {
+  width: 135.055px;
+  height: 32px;
+  margin-right: 84.85px;
+}
+.feature-benefits .logos .logo4 {
+  width: 153.743px;
+  height: 32px;
+  margin-right: 59.17px;
+}
+.feature-benefits .logos .logo5 {
+  width: 136.364px;
+  height: 32px;
+}

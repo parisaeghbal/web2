@@ -1,0 +1,85 @@
+.work {
+  width: 100%;
+  background: var(--Grey);
+}
+.work .heading {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.work .heading div:nth-of-type(1) {
+  width: 100%;
+  margin-bottom: 16px;
+}
+.work .heading div:nth-of-type(1) h2 {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+}
+.work .heading div:nth-of-type(2) {
+  width: 100%;
+  margin-bottom: 16px;
+}
+.work .heading div:nth-of-type(2) p {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  opacity: 0.7;
+  width: 70%;
+}
+.work .heading div:nth-of-type(3) {
+  width: 100%;
+}
+.work .heading div:nth-of-type(3) a {
+  color: var(--Royal-Blue);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.work .heading div:nth-of-type(3) a svg {
+  margin-left: 16px;
+}
+.work .cards {
+  width: 100%;
+  padding-left: 40px;
+  box-sizing: border-box;
+}
+.work .cards div {
+  width: 100%;
+  margin-bottom: 48px;
+}
+.work .cards div img {
+  width: 8%;
+  color: var(--white);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+.work .cards div h2 {
+  width: 30%;
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+}
+.work .cards div p {
+  width: 50%;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  opacity: 0.7;
+}

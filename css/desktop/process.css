@@ -1,0 +1,69 @@
+.processs{
+  width: 100%;
+  height: 524px;
+}
+
+.processs .the-process{
+    width: 85%;
+    height: 268px;
+    margin: 128px ;
+    padding-top: 128px;
+    box-sizing: border-box;
+}
+.processs .the-process h2 {
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 64px;
+    margin-left: 350px;
+    margin-bottom: 55px;
+  }
+  .processs .the-process .process {
+  display: flex ;
+  flex-flow: row wrap;
+  column-gap: 56px;
+}
+.processs .the-process .process .process1 {
+  height: 143px;
+  width: 272px;
+}
+.processs .the-process .process .process1 .circle{
+    display: flex;
+    flex-flow: row wrap;
+
+}
+.processs .the-process .process .process1 .circle svg {
+  width: 24px;
+  height: 24px;
+  fill: var(--Royal-Blue);
+  margin-bottom: 32px;
+}
+.processs .the-process .process .process1 .circle img{
+    width:224px ;
+    height: 2px;
+    margin-top: 12px;
+    margin-left: 24px;
+
+}
+.processs .the-process .process .process1 h6 {
+  width: 296px;
+  height: 36px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  margin-bottom: 8px;
+}
+.processs .the-process .process .process1 p {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+}

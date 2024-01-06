@@ -1,0 +1,60 @@
+.our-visions {
+  background-color: rgba(238, 244, 250, 1);
+  width: 100%;
+}
+.our-visions .our-vision {
+  width: 85%;
+  height: 1022px;
+  margin-left: 128px;
+  display: flex;
+  flex-flow: row wrap;
+}
+.our-visions .our-vision .our-vision1 {
+  width: 50%;
+  height: inherit;
+}
+.our-visions .our-vision .our-vision1 .Mission {
+  width: 94px;
+  height: 28px;
+  margin: 182px 669px 0 0px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  margin-bottom: 10px;
+}
+.our-visions .our-vision .our-vision1 h3 {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  width: 623px;
+  margin-bottom: 10px;
+}
+.our-visions .our-vision .our-vision1 .text {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+  width: 623px;
+  height: 112px;
+  margin-bottom: 150px;
+}
+.our-visions .our-vision .our-vision1 .woman {
+  width: 514px;
+  height: 334px;
+}
+
+.our-visions .our-vision .our-vision1 .man {
+  margin-top: 128px;
+  margin-left: 106px;
+  width: 515px;
+  height: 336px;
+}

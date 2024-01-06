@@ -1,0 +1,50 @@
+.about-us {
+  width: 85%;
+  height: 336px;
+  margin: 128px 128px 128px 128px;
+  display: flex;
+  flex-flow: row wrap;
+}
+.about-us .about-us1 {
+  width: 595px;
+  height: inherit;
+}
+.about-us .about-us1 p.title {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  width: 419px;
+  margin-top: 30px;
+  margin-bottom: 8px;
+}
+.about-us .about-us1 h1 {
+  width: 595px;
+  height: 148px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 74px;
+  margin-bottom: 31px;
+}
+.about-us .about-us1 p.text {
+  width: 484px;
+  height: 84px;
+  color: var(--Dark-blue, #282938);
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+}
+.about-us .about-us2 .about-us-image {
+  margin-left: 138px;
+  width: 547px;
+  height: 336px;
+}

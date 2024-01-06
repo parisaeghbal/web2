@@ -1,0 +1,71 @@
+.meet-our-team {
+  width: 100%;
+  height: 712px;
+  background: var(--Grey);
+  padding-top: 128px;
+  box-sizing: border-box;
+}
+.meet-our-team h2 {
+  width:357px;
+  height: 64px;
+  color: var(--Dark-blue);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+  margin: 0px 595px 48px 594px;
+}
+.meet-our-team .meet {
+  width: 1280px;
+  height: 344px;
+  display: flex;
+  flex-flow: row wrap;
+  column-gap: 32px;
+  margin-left: 128px;
+}
+.meet-our-team .meet .meet1 {
+  width: 296px;
+  height: 344px;
+  transition: 300ms;
+  background: #fff;
+}
+.meet-our-team .meet .meet1  img {
+  width: 168px;
+  height: 168px;
+  border-radius: 50%;
+  margin-left: 64px;
+  margin-top: 48px;
+  
+  fill: linear-gradient(348deg, #5239FA 17.97%, rgba(255, 255, 255, 0.00) 79.2%);
+ 
+ }
+.meet-our-team .meet .meet1 h6 {
+  width: 208px;
+  height: 36px;
+  color: var(--b);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: 30px;
+  margin-left: 44px;
+}
+.meet-our-team .meet .meet1 p {
+  color: var(--b);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+  margin-left: 131px;
+  margin-top: 2px;
+}
+.meet-our-team .meet .meet1 .marginless{
+  margin-left: 90px;
+}
+

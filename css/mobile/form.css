@@ -1,0 +1,121 @@
+.form {
+    width: 100%;
+    margin-top: 40px;
+  }
+  .form .form1 {
+    width: 100%;
+    height: 600px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-image: url("../../images/form/Background\ \(5\).png"),
+      url("../../images/form/30732f1e32bd56f48c9445a26c0f29ba.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(28, 30, 83, 0.5);
+  }
+  .form .form1 h1 {
+    width: 80%;
+    color: var(--White, #fff);
+    font-family: Poppins;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .form .form1 p {
+    width: 55%;
+    flex-shrink: 0;
+    color: #fff;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .form .form2 {
+    width: 100%;
+    height: 600px;
+    background: #1C1E53;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .form .form2 .send {
+    width: 432px;
+  }
+  .form .form2 h5 {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 16px;
+  }
+  .form .form2 p {
+    color: var(--Grey);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 40px;
+  }
+  .form .form2 input {
+    width: 432px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1.5px solid rgba(255, 255, 255, 0.05);
+    margin-bottom: 16px;
+    padding-left: 32px;
+    box-sizing: border-box;
+  }
+  .form .form2 button {
+    display: flex;
+    width: 432px;
+    height: 64px;
+    padding: 15px 51px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 41px;
+    background: #fcd980;
+    color: #1b1c2b;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    border: none;
+    margin-bottom: 28px;
+  }
+  .form .form2  a{
+    width: 244px;
+    height: 32px;
+    margin-left:94px ;
+    text-decoration: none;
+  }
+  .form .form2  a p {
+    color: var(--white);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    margin-left:120px ;
+  
+   
+  }
+  .form .form2  a p svg {
+    fill: var(--white);
+    stroke-width: 1.5px;
+    stroke: var(--Grey);
+    width: 24px;
+    height: 8px;
+    flex-shrink: 0;
+    margin-left: 5px;
+  }
+  

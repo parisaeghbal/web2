@@ -1,0 +1,91 @@
+.blog {
+  height: 737px;
+  width: 81%;
+  margin: 0 162px 142px 158px;
+}
+.blog h2 {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+  margin-bottom: 64px;
+}
+.blog .blogs {
+  display: flex;
+  flex-flow: row wrap;
+  column-gap: 5px;
+}
+.blog .blogs .blog1 {
+  width: 405px;
+  height: 609px;
+}
+.blog .blogs .blog1 img {
+  width: 405px;
+  height: 285px;
+  margin-bottom: 40px;
+}
+.blog .blogs .blog1 .data {
+  width: 93px;
+  height: 28px;
+  margin-bottom: 16px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  opacity: 0.7;
+}
+.blog .blogs .blog1 h6 {
+  width: 405px;
+  height: 108px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  margin-bottom: 16px;
+}
+.blog .blogs .blog1 p {
+  width: 405px;
+  height: 56px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+  margin-bottom: 32px;
+}
+.blog .blogs .blog1  a{
+    text-decoration:none ;
+}
+.blog .blogs .blog1  a .read-more{
+    display: flex;
+    flex-flow:row nowrap ;
+}
+.blog .blogs .blog1  a .read-more .read {
+  width: 87px;
+  height: 28px;
+  color: #282938;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+ 
+}
+.blog .blogs .blog1  a .read-more svg {
+  width: 24px;
+  height: 5px;
+  flex-shrink: 0;
+  fill: var(--Royal-Blue, #2405f2);
+  stroke-width: 1.5px;
+  stroke: var(--Dark-blue, #282938);
+  margin-top: 12px;
+  
+}

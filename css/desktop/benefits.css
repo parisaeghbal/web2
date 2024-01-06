@@ -1,0 +1,120 @@
+.benefits {
+  height: 600px;
+  width: 85%;
+  margin: 128px 128px 152px 128px;
+}
+
+.benefits h2 {
+  color: var(--Dark-blue);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+  width: 630px;
+  height: 128px;
+  margin-left: 313px;
+  margin-bottom: 48px;
+}
+.benefits .rectangel-1318 {
+  width: 1290px;
+  height: 316px;
+  display: flex;
+  flex-flow: row wrap;
+  column-gap: 32px;
+}
+.benefits .rectangel-1318 .rectangel-1318-1 {
+  height: 316px;
+  width: 405px;
+  background-color: var(--Grey);
+}
+.benefits .rectangel-1318 .rectangel-1318-1 svg {
+  width: 32.001px;
+  height: 32px;
+  flex-shrink: 0;
+  margin: 50px 0 26px 48px;
+}
+.benefits .rectangel-1318 .rectangel-1318-1 h6 {
+  width: 314.748px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  margin-bottom: 12px;
+  margin-left: 47.9px;
+}
+.benefits .rectangel-1318 .rectangel-1318-1 p {
+  width: 324.079px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+  margin-left: 48.3px;
+}
+.benefits .logos {
+  width: 100%;
+  height: 84px;
+  margin-top: 90px;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  color: rgba(40, 41, 56, 1);
+}
+.benefits .logos .Finsweet-users {
+  padding-right: 89px;
+  box-sizing: border-box;
+}
+.benefits .logos .Finsweet-users h3 {
+  width: 176px;
+  height: 56px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  color: (40, 41, 56, 1);
+}
+.benefits .logos .Finsweet-users p {
+  width: 124px;
+  height: 28px;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.7;
+}
+.benefits .logos .logo1 {
+  width: 161.815px;
+  height: 32px;
+  margin-right: 59.9px;
+}
+.benefits .logos .logo2 {
+  width: 136.149px;
+  height: 32px;
+  margin-right: 88.86px;
+}
+.benefits .logos .logo3 {
+  width: 135.055px;
+  height: 32px;
+  margin-right: 84.85px;
+  
+}
+.benefits .logos .logo4 {
+  width: 153.743px;
+  height: 32px;
+  margin-right: 59.17px;
+}
+.benefits .logos .logo5 {
+  width: 136.364px;
+  height: 32px;
+ 
+}

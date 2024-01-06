@@ -1,0 +1,121 @@
+.benefits {
+    width: 100%;
+   margin-bottom: 200px;
+    
+   
+  }
+  
+  .benefits h2 {
+    color: var(--Dark-blue);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    width: 100%;
+    margin-bottom: 48px;
+    margin-top: 100px;
+  }
+  .benefits .rectangel-1318 {
+    width: 100%;
+
+    
+  }
+  .benefits .rectangel-1318 .rectangel-1318-1 {
+    width: 95%;
+    background-color: var(--Grey);
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    padding: 60px 30px;
+    margin-left: 15px;
+  }
+  .benefits .rectangel-1318 .rectangel-1318-1 svg {
+    width: 32.001px;
+    height: 32px;
+    flex-shrink: 0;
+    margin: 0px 0 26px 48px;
+  }
+  .benefits .rectangel-1318 .rectangel-1318-1 h6 {
+    width: 314.748px;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    margin-bottom: 12px;
+    margin-left: 47.9px;
+  }
+  .benefits .rectangel-1318 .rectangel-1318-1 p {
+    width: 324.079px;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    opacity: 0.7;
+    margin-left: 48.3px;
+  }
+  .benefits .logos {
+    width: 100%;
+    margin-top: 48px;
+    display: flex;
+    row-gap: 60px;
+    flex-flow: row wrap;
+    align-items: center;
+    color: rgba(40, 41, 56, 1);
+    padding: 60px;
+    box-sizing: border-box;
+  }
+  .benefits .logos .Finsweet-users {
+    width: 50%;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+  }
+  .benefits .logos .Finsweet-users h3 {
+    width: 100%;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    color: (40, 41, 56, 1);
+  }
+  .benefits .logos .Finsweet-users p {
+    width: 100%;
+    height: 28px;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    opacity: 0.7;
+  }
+  .benefits .logos .logo1 {
+    width:50%;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+  }
+  .benefits .logos .logo2 {
+    width:50%;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+  }
+  .benefits .logos .logo3 {
+    width:50%;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+  }
+  .benefits .logos .logo4 {
+    width:50%;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+  }
+  .benefits .logos .logo5 {
+    width:50%;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+  }
+  

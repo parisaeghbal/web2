@@ -1,0 +1,52 @@
+.our-visions {
+    background-color: rgba(238, 244, 250, 1);
+    width: 100%;
+  }
+  .our-visions .our-vision {
+    width: 100%;
+    padding-top: 40px;
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .our-visions .our-vision .our-vision1 {
+    width: 100%;
+  }
+  .our-visions .our-vision .our-vision1 .Mission {
+    width:100% ;
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  .our-visions .our-vision .our-vision1 h3 {
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    width: 100%;
+    margin-bottom: 80px;
+  }
+  .our-visions .our-vision .our-vision1 .text {
+    color: var(--Dark-blue);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    opacity: 0.7;
+    width: 100%;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .our-visions .our-vision .our-vision1 .women {
+    width: 95%;
+  }
+  
+  .our-visions .our-vision .our-vision1 .man {
+    margin-top: 128px;
+    width: 95%;
+  }
+  

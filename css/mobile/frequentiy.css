@@ -1,0 +1,134 @@
+.frequently {
+  width: 100%;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+.frequently .frequently1 {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.frequently .frequently1 h3 {
+  width: 100%;
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.frequently .frequently1 p {
+  color: var(--Royal-Blue);
+  text-align: start;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  opacity: 0.87;
+  width: 100%;
+}
+.frequently .frequently2 {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.frequently .frequently2 .first {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+ 
+}
+.frequently .frequently2 .first .number {
+  color: var(--Royal-Blue);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  width: 10%;
+  padding-left: 20px;
+  box-sizing: border-box;
+}
+.frequently .frequently2 .first .center {
+  width: 80%;
+  display: flex;
+  flex-flow: column wrap;
+  padding-left: 40px;
+  box-sizing: border-box;
+}
+.frequently .frequently2 .first .center h6 {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  width: 100%;
+  margin-bottom: 8px;
+}
+.frequently .frequently2 .first .center p {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  width: 80%;
+  margin-left: 5px;
+}
+.frequently .frequently2 .first svg {
+  width: 10%;
+  height: 16px;
+  transform: rotate(45deg);
+  flex-shrink: 0;
+  fill: var(--Dark-blue);
+  opacity: 0.7;
+  margin-top: 10px;
+}
+.frequently .frequently2 img {
+  width: 100%;
+  height: 2px;
+  background: #ececf1;
+  margin-top: 20px;
+}
+.frequently .frequently2 .second {
+  width: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.frequently .frequently2 .second h6 {
+  color: var(--Royal-Blue);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  width: 10%;
+ padding-left: 20px;
+  
+ 
+}
+.frequently .frequently2 .second .center {
+  width: 80%;
+}
+.frequently .frequently2 .second .center h6 {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  width: 90%;
+  
+}
+.frequently .frequently2 .second svg {
+  width: 10%;
+  transform: rotate(45deg);
+  flex-shrink: 0;
+  fill: var(--Dark-blue);
+  opacity: 0.7;
+  margin-top: 10px;
+}
+.frequently .frequently2 img {
+  width: 100%;
+  height: 2px;
+  background: #ececf1;
+}

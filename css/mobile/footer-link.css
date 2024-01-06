@@ -1,0 +1,38 @@
+.footer-link {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 30px;
+  box-sizing: border-box;
+}
+.footer-link p {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  width: 100%;
+  padding-left: 95px;
+}
+.footer-link .links {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-self: center;
+  column-gap: 30px;
+}
+.footer-link .links a {
+  text-decoration: none;
+  padding-top: 15px;
+  box-sizing: border-box;
+}
+.footer-link .links a img {
+  color: var(--Dark-blue);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  background-color: aqua;
+}
